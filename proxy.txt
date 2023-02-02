@@ -1,0 +1,42 @@
+# Region 
+.uk
+.hk
+.us
+
+# Self-Use --------------------------------------------------
+.bbs.fygal.com
+    # Mikan
+.mikanani.me
+    # ailian
+.kisssub.org
+    # PIXIV
+.pixiv.net
+.pximg.net
+    # nyaa
+.sukebei.nyaa.si
+    # mega
+.mega.nz
+.mega.co.nz
+
+# ----------------------------------------official ↓ -----------------------------
+# Github
+.github.com
+.github.io
+.githubapp.com
+.githubassets.com
+.githubusercontent.com
+.gitbook.io
+
+# Google
+.google.com
+
+# Wiki
+.wikipedia.org
+
+  
+# stackoverflow
+.stackoverflow.com
+.sstatic.net
+
+# reddit
+.reddit.com

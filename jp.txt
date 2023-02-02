@@ -1,0 +1,12 @@
+.jp
+# DMM
+.dmm.com
+# niconico
+.dmc.nico
+.nicovideo.jp
+.nimg.jp
+.socdm.com
+# Wani
+.wani.com
+# Galgame-Company
+.a-kaguya.com

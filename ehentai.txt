@@ -1,0 +1,4 @@
+# ehentai
+.e-hentai.org
+.exhentai.org
+.ehgt.org

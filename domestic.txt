@@ -1,0 +1,20 @@
+# China Area Network
+# Region --------------------------------------------------------
+.cn
+#  <------------------------------- Self-Use ------------------------->
+# NGA
+.bbs.nga.cn
+# vgtime
+.vgtime.com
+# sspai
+.sspai.com
+# TSDM
+.tsdm39.net
+# zhihu
+.zhihu.com
+.zhimg.com
+# chiphell
+.chiphell.com
+# douban
+.doubanio.com
+.douban.com
